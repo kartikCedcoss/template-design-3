@@ -56,7 +56,7 @@ ul {
  .div4{
     margin-top:10px ;
     width: 94%;
-    padding:1% 3% 1% 3%;
+    padding:1.2% 3% 2% 3%;
     height: 20px;
     text-align: center;
     display:inline-block; 
@@ -64,10 +64,24 @@ ul {
     
     
 } 
-.sub{
-    color:rgb(31, 31, 119);
-}
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 4px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+  .button2 {background-color: #008CBA;}
 .lbl{
-    font-size: 20px;
+    font-size: 23px;
     font: bold;
+}
+.text-field{
+    font-size: large;
 }
